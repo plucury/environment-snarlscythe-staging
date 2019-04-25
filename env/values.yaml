@@ -17,6 +17,8 @@ expose:
     domain: dev-waiverforeverk8s.com
     exposer: Ingress
     http: "true"
+global:
+   env: staging
 jenkins:
   Servers:
     Global:
