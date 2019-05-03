@@ -27,6 +27,7 @@ prow: {}
 WFGlobalEnv:
   ENV: staging
   QS3_TEST_SERVER: "\"False\""
+  READ_FROM_MONGO_REPLICA: "\"True\""
   WFCRM_SERVER: https://crm-api.waiverforeverk8s.com/
   WF_ROOT_COOKIE_DOMAIN: .waiverforever.com
 WFGlobalSecret:
