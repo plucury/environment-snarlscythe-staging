@@ -12,7 +12,7 @@ dependencies:
   version: 1.1.14
 - name: qs3
   repository: http://jenkins-x-chartmuseum:8080
-  version: 2016011202.0.20
+  version: 2016011202.0.21
 - name: qs3-cron
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.7
